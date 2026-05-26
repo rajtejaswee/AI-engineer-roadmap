@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables (we'll use this a LOT for API keys)
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
